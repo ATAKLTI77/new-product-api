@@ -11,7 +11,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-  productId: "1231",
+  productId: "1231ABC",
   productName: "chinna mule 4.4 course",
   productprovider: "udemey",
   product_descrpition: "complete mule developer course"
